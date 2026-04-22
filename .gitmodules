@@ -1,6 +1,6 @@
 [submodule "jsesh-bin"]
 	path = jsesh-bin
-	url = ssh://aur@aur.archlinux.org/jsesh-bin.git
+	url = git@github.com:neoluxis/jsesh-bin-aur
 [submodule "jsesh-git"]
 	path = jsesh-git
-	url = ssh://aur@aur.archlinux.org/jsesh-git.git
+	url = git@github.com:neoluxis/jsesh-git-aur
